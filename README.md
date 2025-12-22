@@ -1,6 +1,6 @@
 # Voronoi Rooms: Dynamic Visibility Modulation of Overlapping Spaces for Telepresence
 
-#####  <p align="center"> [Taehei Kim]((https://taeheikim.notion.site/Tay-Kim-698b87b1a0c34346a3e92fa3f7220198)), [Jihun Shin](), [Hyeshim Kim](), [Hyuckjin Jang](), [Jiho Kang](), [Sung-Hee Lee](https://lava.kaist.ac.kr/?page_id=41)</p>
+#####  <p align="center"> [Taehei Kim](https://taeheikim.notion.site/Tay-Kim-698b87b1a0c34346a3e92fa3f7220198), [Jihun Shin](), [Hyeshim Kim](), [Hyuckjin Jang](), [Jiho Kang](), [Sung-Hee Lee](https://lava.kaist.ac.kr/?page_id=41)</p>
  
 #### <p align="center">[Project Page](https://www.berryhi.com/) | [Paper](https://dl.acm.org/doi/10.1145/3777900) | [Demo video]((https://www.berryhi.com/))</p>
 
