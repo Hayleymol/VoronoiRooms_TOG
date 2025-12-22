@@ -1,14 +1,25 @@
-# Nerfies
+# Voronoi Rooms: Dynamic Visibility Modulation of Overlapping Spaces for Telepresence
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository introduces Voronoi Rooms.
 
-If you find Nerfies useful for your work please cite:
+If you find Voronoi Rooms useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{10.1145/3777900,
+author = {Kim, Taehei and Shin, Jihun and Kim, Hyeshim and Jang, Hyuckjin and Kang, Jiho and Lee, Sung-Hee},
+title = {Voronoi Rooms: Dynamic Visibility Modulation of Overlapping Spaces for Telepresence},
+year = {2025},
+issue_date = {April 2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {45},
+number = {2},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3777900},
+doi = {10.1145/3777900},
+month = dec,
+articleno = {17},
+numpages = {15},
+keywords = {Telepresence, space optimization, mixed realities}
 }
 ```
 
