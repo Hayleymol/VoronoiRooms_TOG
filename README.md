@@ -1,5 +1,13 @@
 # Voronoi Rooms: Dynamic Visibility Modulation of Overlapping Spaces for Telepresence
 
+#####  <p align="center"> [Taehei Kim](https://dk-jang.github.io), [Jihun Shin](), [Hyeshim Kim](), [Hyuckjin Jang](), [Jiho Kang](), [Sung-Hee Lee](https://lava.kaist.ac.kr/?page_id=41)</p>
+ 
+#### <p align="center">[Project Page](https://Hayleymol.github.io/VoronoiRooms_TOG/) | [Paper](https://dl.acm.org/doi/10.1145/3777900) | [Demo video]((https://www.berryhi.com/))</p>
+
+<p align="center">
+    <img src="assets/images/teaser.png" align="center">
+</p>
+
 This is the repository introduces Voronoi Rooms.
 
 If you find Voronoi Rooms useful for your work please cite:
