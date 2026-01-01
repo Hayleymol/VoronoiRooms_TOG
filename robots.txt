@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hayleymol.github.io/VoronoiRooms_TOG/sitemap.xml
